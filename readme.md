@@ -151,7 +151,7 @@ node server.js
 
 ## Screenshot
 
-*(Add a screenshot here if you want)*
+<img width="1089" height="740" alt="Lightweight Phone Directory" src="https://github.com/user-attachments/assets/c305e2c7-ea30-49a9-a4b2-41893129e99d" />
 
 ---
 
