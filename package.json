@@ -1,0 +1,13 @@
+{
+  "name": "phone-directory",
+  "version": "1.0.0",
+  "description": "Phone directory with Express, SQLite, Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
